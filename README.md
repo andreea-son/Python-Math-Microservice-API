@@ -20,7 +20,7 @@ Features include:
 
 | Operation   | Description                           | Input Fields        |
 | ----------- | ------------------------------------- | ------------------- |
-| `power`     | Computes `number` raised to `number2` | `number`, `number2` |
+| `power`     | Computes `number` raised to `exp` | `number`, `exp` |
 | `factorial` | Computes factorial of `number`        | `number`            |
 | `fibonacci` | Computes the `n-th` Fibonacci number  | `number`            |
 
