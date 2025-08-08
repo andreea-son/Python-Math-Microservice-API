@@ -115,6 +115,8 @@ You will see log messages like:
 | `sqlalchemy`                        | ORM for SQLite |
 | `kafka-python`                      | Kafka logging  |
 | `functools`                         | Caching        |
+| `pydantic`                          | Data validation and parsing |
+
 
 ---
 
